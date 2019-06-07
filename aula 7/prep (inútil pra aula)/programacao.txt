@@ -1,0 +1,36 @@
+
+1. Revisar Javascript
+  javascript é como C (if/else, for, while, switch)
+  let, var, const
+  javascript "doesn't" have types
+  introduce javascript types
+    number
+    string ('', "", ``)
+    boolean
+    undefined, null
+    {}
+    []
+    function() {}
+  literals
+  function declaration
+    function name() {}
+    const name = function() {}
+    {}
+    func factories
+    protoypes (classes)
+
+2. Higher order functions
+  pass a named function to a function
+  pass a function literal to a function   // maybe invert these ???
+  get a named function from a functions   // maybe invert these ???
+  get a function literal from a functions
+
+3. Pure functions
+  state is a horrible horrible thing
+  consequences and side-effects are weird, not obvious and break easily
+  so use functions for their result
+
+4. recursion
+  easier to code
+  "but its not as efficient bla bla bla"
+  you need to know and discern when and how your code should run efficiently. design > perfomance

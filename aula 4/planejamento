@@ -1,0 +1,20 @@
+revisar métodos
+relembrar funções de ordem maior
+métodos de ordem maior
+Array
+(comentário sobre Array.prototype.coisa)
+filter/map/reduce intro (não explica o que fazem ainda)
+comportamento geral
+  - lida com a array 1 elemento por vez em ordem pra fazer algo
+  - NÃO ALTERA A ARRAY ORIGINAL. RETORNA UMA ARRAY NOVA
+filter
+map
+forEach
+  - Explicar o porque forEach não é muito útil no paradigma funcional
+  - Fazer comentário que cada um decide o que funciona para cada situação
+reduce
+
+📑
+🏹
+🥇
+🎯

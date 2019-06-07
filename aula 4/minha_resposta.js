@@ -1,0 +1,5 @@
+const copy = arr => arr.reduce((acc, cur) => [...acc, cur])
+const forEach = (arr, foo) => arr.reduce((_, cur) => foo(cur))
+const filter = (arr, foo) => arr.reduce((acc, cur) => foo(cur) ? acc : [...acc, cur], [])
+const map = (arr, foo) => arr.reduce((acc, cur) => [...acc, foo(cur)], [])
+const flatMap = (arr, foo) => arr.reduce((acc, cur) => [...acc, ...foo(cur)], [])
