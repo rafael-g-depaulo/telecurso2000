@@ -1,2 +1,4 @@
 # telecurso2000
-code from a course in Functional Programming in Javascript that i run
+Código das aulas do curso online de programação funcional em javascript da CJR - Empresa de Computação Junior.
+
+"Functional Programming dentro do contexto de JS, Javascript dentro do contexto de FP" - Rafael G. de Paulo
