@@ -1,0 +1,14 @@
+desconstrução e pattern matching
+  const { name, age } = eduarda
+  const [ first, second ] = arr
+
+rest operator
+  const [ head, ...tail ] = arr
+
+can be used on parameters
+  const removeFirst = (first, ...rest) => rest
+  ({ name, age }) => `hello, ${name}. I see you're ${age} years old`
+
+spread operator
+
+recursão de cauda
